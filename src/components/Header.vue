@@ -6,7 +6,7 @@
               <a href="#" class="text-selected-text">Home</a>
               <a href="#about">About</a>
               <a href="#work">Projects</a>
-              <a href="#hire"><button class="px-6 py-2 bg-theme font-bold">Contact Me</button></a>
+              <a href="#hire"><button class="px-6 py-2 bg-theme font-bold text-white">Contact Me</button></a>
           </div>
           <div class="md:hidden">
               <img src="@/assets/responsive.svg" alt="menu">
