@@ -1,19 +1,54 @@
 <template>
-    <div class="container mt-64 flex justify-between items-center mx-auto px-8 md:px-14 lg:px-24 w-full">
+    <div class="container mt-64 flex justify-between items-center mx-auto px-8 md:px-14 lg:px-24 w-full" id="work">
         <section class="w-full">
-            <h2 id="work" class="secondary-title">My work</h2>
-            <p class="section-paragraph">I’ve had the pleasure of working with multiple Fortune 500 companies, designing and implementing both frontend and backend.</p>
+            <h2 class="secondary-title">My Projects</h2>
+            <p class="section-paragraph">Here some of my differente projects that i did.</p>
 
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-6">
-                <img src="https://images.unsplash.com/photo-1576153192396-180ecef2a715?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80" class="w-full bg-nav h-36 lg:h-72 object-cover">
-                <img src="https://images.unsplash.com/photo-1545235617-9465d2a55698?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80" class="w-full bg-nav h-36 lg:h-72 object-cover">
-                <img src="https://images.unsplash.com/photo-1586717791821-3f44a563fa4c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80" class="w-full hidden md:block bg-nav h-36 lg:h-72 object-cover">
-                <img src="https://images.unsplash.com/photo-1558655146-d09347e92766?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=764&q=80" class="w-full hidden md:block bg-nav h-36 lg:h-72 object-cover">
-                <img src="https://images.unsplash.com/photo-1547119957-637f8679db1e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80" class="w-full hidden md:block bg-nav h-36 lg:h-72 object-cover">
-                <img src="https://images.unsplash.com/photo-1559028012-481c04fa702d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1336&q=80" class="w-full hidden md:block bg-nav h-36 lg:h-72 object-cover">
-                <img src="https://images.unsplash.com/photo-1603969072881-b0fc7f3d77d7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80s" class="w-full hidden md:block bg-nav h-36 lg:h-72 object-cover">
-                <img src="https://images.unsplash.com/photo-1618761714954-0b8cd0026356?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" class="w-full hidden md:block bg-nav h-36 lg:h-72 object-cover">
-                <img src="https://images.unsplash.com/photo-1545235617-7a424c1a60cc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=880&q=80" class="w-full hidden md:block md:col-span-2 lg:col-span-1 bg-nav h-36 lg:h-72 object-cover">
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 mt-6 space-x-6">
+                <div class="card flex flex-col">
+                    <div>
+                        <img src="@/assets/sitioWeb4.png" alt="">
+                    </div>
+                    <div class="mt-5 mx-2">
+                        <p class="text-xl font-bold title-project">ShareRecipes</p>
+                        <p class="text-secondary justify-end mt-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, sintLorem ipsum dolor sit amet,
+                            consectetur adipisicing elit. Harum, sint??</p>
+                        <button class="button background1-left-column">Empezar</button>
+                    </div>
+                </div>
+                <div class="card flex flex-col">
+                    <div>
+                        <img src="@/assets/sitioWeb4.png" alt="">
+                    </div>
+                    <div class="mt-5 mx-2">
+                        <p class="text-xl font-bold title-project">ShareRecipes</p>
+                        <p class="text-secondary justify-end mt-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, sintLorem ipsum dolor sit amet,
+                            consectetur adipisicing elit. Harum, sint??</p>
+                        <button class="button background1-left-column">Empezar</button>
+                    </div>
+                </div>    
+                <div class="card flex flex-col">
+                    <div>
+                        <img src="@/assets/sitioWeb6.png" alt="">
+                    </div>
+                    <div class="mt-5 mx-2">
+                        <p class="text-xl font-bold title-project">DevJobs</p>
+                        <p class="text-secondary justify-end mt-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, sintLorem ipsum dolor sit amet,
+                            consectetur adipisicing elit. Harum, sint??</p>
+                        <button class="button background1-left-column">Empezar</button>
+                    </div>
+                </div>
+                <div class="card flex flex-col">
+                    <div>
+                        <img src="@/assets/sitioWeb4.png" alt="">
+                    </div>
+                    <div class="mt-5 mx-2">
+                        <p class="text-xl font-bold title-project">ShareRecipes</p>
+                        <p class="text-secondary justify-end mt-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, sintLorem ipsum dolor sit amet,
+                            consectetur adipisicing elit. Harum, sint??</p>
+                        <button class="button background1-left-column">Empezar</button>
+                    </div>
+                </div>    
             </div>
         </section>
     </div>
@@ -25,6 +60,41 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
+.card {
+	border-radius: 1rem;
+	box-shadow: 0 .5rem .5rem rgba(0, 0, 0, 0.1);
+	display: flex;	
+	margin: 1.5rem;
+	overflow: hidden;
+	width: 30rem;
+	height: 23rem;
+}
+.left-column {	
+	padding: 1rem;
+	max-width: 10rem;
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.left-column i {
+	font-size: 5rem
+}
+
+.right-column {
+	padding: 30px;
+	width: 100%;
+	display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: space-between;
+	
+}
+
+
+
 
 </style>

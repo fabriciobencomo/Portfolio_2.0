@@ -1,5 +1,5 @@
 <template>
-<div class="container mt-64 flex justify-between items-center mx-auto px-8 md:px-14 lg:px-24 w-full">
+<div class="container mt-64 flex justify-between items-center mx-auto px-8 md:px-14 lg:px-24 w-full" id="about">
         <section class="w-full">
             <h2 id="clients" class="secondary-title">Who am I?</h2>
             <p class="section-paragraph">Passionate dev for the IT world, the code allows build everything that you can imagine.</p>
@@ -27,13 +27,9 @@
 
                 </div>
                 <div class="w-full p-16 lg:px-32 lg:py-20 lg:space-x-32 flex justify-center lg:justify-start flex-wrap lg:flex-nowrap">
-                    
-                    <!-- Client logo -->
                     <div class="mb-6 lg:mb-0">
                         <img src="@/assets/skill-svgrepo-com.svg" alt="">
                     </div>
-
-                    <!-- Client info -->
                     <div class="flex flex-wrap justify-center text-center lg:text-left lg:block">
                         <h3 class="text-3xl font-semibold">Soft Skills.</h3>
 
@@ -43,7 +39,7 @@
                             <div class="badge">Positive</div>
                         </div>
 
-                        <p class="text-secondary">I consider myself as a enthusiastic person willing to face challenges, learn new technologies and able to change role if necessary.</p>
+                        <p class="text-secondary">I consider myself as a enthusiastic person willing to face challenges, learn new technologies and able to change role if necessary. Hoping be a great addition to the team.</p>
                     </div>
 
                 </div>
