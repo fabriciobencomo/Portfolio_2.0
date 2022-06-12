@@ -5,7 +5,7 @@
             <p class="section-paragraph">These are some of the personal projects I have worked with, from basic information pages to fully functional web applications. visit them and check the code.</p>
 
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 mt-6 space-x-6">
-                <div class="card flex flex-col bg-input">
+                <div class="card md:w-10/12 w-80 flex-col bg-input">
                     <div>
                         <img src="@/assets/sitioWeb4.png" alt="project">
                     </div>
@@ -15,7 +15,7 @@
                             consectetur adipisicing elit. Harum, sint??</p>
                     </div>
                 </div>
-                <div class="card flex flex-col">
+                <div class="card md:w-10/12 w-80 flex flex-col bg-white">
                     <div>
                         <img src="@/assets/sitioWeb3.png" alt="project">
                     </div>
@@ -25,7 +25,7 @@
                             consectetur adipisicing elit. Harum, sint??</p>
                     </div>
                 </div>    
-                <div class="card flex flex-col">
+                <div class="card md:w-10/12 w-80 flex flex-col bg-white">
                     <div>
                         <img src="@/assets/sitioWeb6.png" alt="project">
                     </div>
@@ -35,7 +35,7 @@
                             consectetur adipisicing elit. Harum, sint??</p>
                     </div>
                 </div>
-                <div class="card flex flex-col bg-input">
+                <div class="card md:w-10/12 w-80 flex flex-col bg-input">
                     <div>
                         <img src="@/assets/sitioWeb1.png" alt="project">
                     </div>
@@ -63,7 +63,6 @@ export default {
 	display: flex;	
 	margin: 1.5rem;
 	overflow: hidden;
-	width: 30rem;
 	height: 32rem;
 }
 

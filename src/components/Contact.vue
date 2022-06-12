@@ -3,24 +3,24 @@
         <section class="w-full">
             <h2 id="hire" class="secondary-title">Hire me</h2>
             <p class="section-paragraph">Feel free to to contact me any time, through any method below.</p>
-
             <div class="w-full grid lg:grid-cols-2 gap-8 lg:gap-32 mt-24">
-                <div class="space-y-12">
-                    <div>
-                        <label class="block mb-6 text-xl font-bold">Name</label>
-                        <input class="w-full border border-input-border bg-input px-4 py-4">
+                <form action="https://formsubmit.co/fabriciobencomo.viloria@gmail.com" method="POST">
+                    <div class="space-y-12">
+                        <div>
+                            <label class="block mb-6 text-xl font-bold">Name</label>
+                            <input class="w-full border border-input-border bg-input px-4 py-4 text-white" name="name">
+                        </div>
+                        <div>
+                            <label class="block mb-6 text-xl font-bold">Email</label>
+                            <input type="email" class="w-full border border-input-border bg-input px-4 py-4 text-white" name="email">
+                        </div>
+                        <div>
+                            <label class="block mb-6 text-xl font-bold">Message</label>
+                            <textarea type="email" class="w-full border border-input-border bg-input px-4 py-4 text-white h-56 resize-none" name="message"></textarea>
+                        </div>
+                        <button class="px-6 py-2 bg-theme text-white font-bold">Send it!</button>
                     </div>
-                    <div>
-                        <label class="block mb-6 text-xl font-bold">Email</label>
-                        <input type="email" class="w-full border border-input-border bg-input px-4 py-4">
-                    </div>
-                    <div>
-                        <label class="block mb-6 text-xl font-bold">Message</label>
-                        <textarea type="email" class="w-full border border-input-border bg-input px-4 py-4 h-56 resize-none"></textarea>
-                    </div>
-                    <button class="px-6 py-2 bg-theme text-white font-bold">Send it!</button>
-                </div>
-
+                </form>
                 <div class="mt-12">
                     <!-- Contact info -->
                     <p class="text-secondary">+58 414-424-4614</p>
