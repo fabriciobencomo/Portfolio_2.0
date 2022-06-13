@@ -5,44 +5,60 @@
             <p class="section-paragraph">These are some of the personal projects I have worked with, from basic information pages to fully functional web applications. visit them and check the code.</p>
 
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 mt-6 space-x-6">
-                <div class="card md:w-10/12 w-80 flex-col bg-input">
+                <div class="card md:w-10/12 w-72 flex-col bg-input">
                     <div>
                         <img src="@/assets/sitioWeb4.png" alt="project">
                     </div>
                     <div class="mt-5 mx-2">
                         <p class="text-xl font-bold title-project text-white">ShareRecipes</p>
-                        <p class="text-white justify-end mt-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, sintLorem ipsum dolor sit amet,
-                            consectetur adipisicing elit. Harum, sint??</p>
+                        <p class="text-white text-justify mt-3">It is a social network that allows its users to share their recipes with the world .What are you waiting for? learn a new recipe or share yours.
+                        <br><span class="font-bold">Stack used: Laravel, Bootstrap, Javascript.</span></p>
+                        <div class="mt-12 mb-8 flex justify-around space-x-6">
+                            <a href=""><button class="px-6 py-2 bg-theme font-bold rounded-sm text-white">Visit it!</button></a>
+                            <a href=""><button class="px-6 py-2 bg-theme font-bold rounded-sm text-white">Check the code! </button></a>
+                        </div>
                     </div>
                 </div>
-                <div class="card md:w-10/12 w-80 flex flex-col bg-white">
+                <div class="card md:w-10/12 w-72 flex flex-col bg-white">
                     <div>
                         <img src="@/assets/sitioWeb3.png" alt="project">
                     </div>
                     <div class="mt-5 mx-2">
                         <p class="text-xl font-bold title-project">Exchage-Crypto</p>
-                        <p class="text-secondary justify-end mt-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, sintLorem ipsum dolor sit amet,
-                            consectetur adipisicing elit. Harum, sint??</p>
+                         <p class="text-secondary text-justify mt-3">It is a single page application that allows you to stay informed about the most important cryptocurrencies of the moment.
+                        <br><span class="font-bold">Stack used: VueJs, TailwindCss.</span></p>
+                        <div class="mt-12 mb-8 flex justify-around space-x-6">
+                            <a href=""><button class="px-6 py-2 bg-theme font-bold rounded-sm text-white">Visit it!</button></a>
+                            <a href=""><button class="px-6 py-2 bg-theme font-bold rounded-sm text-white">Check the code! </button></a>
+                        </div>
                     </div>
                 </div>    
-                <div class="card md:w-10/12 w-80 flex flex-col bg-white">
+                <div class="card md:w-10/12 w-72 flex flex-col bg-white">
                     <div>
                         <img src="@/assets/sitioWeb6.png" alt="project">
                     </div>
                     <div class="mt-5 mx-2">
                         <p class="text-xl font-bold title-project">DevJobs</p>
-                        <p class="text-secondary justify-end mt-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, sintLorem ipsum dolor sit amet,
-                            consectetur adipisicing elit. Harum, sint??</p>
+                       <p class="text-secondary text-justify mt-3">It is a web application focused on job offers in the technology industry where it unites recruiters with IT workers.
+                        <br><span class="font-bold">Stack used: Laravel, VueJs, TailwindCss.</span></p>
+                        <div class="mt-12 mb-8 flex justify-around space-x-6">
+                            <a href=""><button class="px-6 py-2 bg-theme font-bold rounded-sm text-white">Visit it!</button></a>
+                            <a href=""><button class="px-6 py-2 bg-theme font-bold rounded-sm text-white">Check the code! </button></a>
+                        </div>
                     </div>
                 </div>
-                <div class="card md:w-10/12 w-80 flex flex-col bg-input">
+                <div class="card md:w-10/12 w-72 flex flex-col bg-input">
                     <div>
                         <img src="@/assets/sitioWeb1.png" alt="project">
                     </div>
                     <div class="mt-5 mx-2">
                         <p class="text-xl font-bold title-project text-white">TravelPlaces</p>
-                        <p class="justify-end mt-3 text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, sintLorem ipsum dolor sit amet,
-                            consectetur adipisicing elit. Harum, sint??</p>
+                        <p class="text-justify mt-3 text-white">It is an informative page on interesting places for different types of travelers. is focused on minimalist and attractive design.
+                        <br><span class="font-bold">Stack used: TailwindCss.</span></p>
+                        <div class="mt-12 mb-8 flex justify-around space-x-6">
+                            <a href=""><button class="px-6 py-2 bg-theme font-bold rounded-sm text-white">Visit it!</button></a>
+                             <a href=""><button class="px-6 py-2 bg-theme font-bold rounded-sm text-white">Check the code! </button></a>
+                        </div>
                     </div>
                 </div>    
             </div>

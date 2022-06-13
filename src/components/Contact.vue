@@ -1,24 +1,24 @@
 <template>
   <div class="container mt-64 flex justify-between items-center mx-auto px-8 md:px-14 lg:px-24 w-full">
         <section class="w-full">
-            <h2 id="hire" class="secondary-title">Hire me</h2>
+            <h2 id="hire" class="secondary-title">Contact me</h2>
             <p class="section-paragraph">Feel free to to contact me any time, through any method below.</p>
             <div class="w-full grid lg:grid-cols-2 gap-8 lg:gap-32 mt-24">
                 <form action="https://formsubmit.co/fabriciobencomo.viloria@gmail.com" method="POST">
                     <div class="space-y-12">
                         <div>
                             <label class="block mb-6 text-xl font-bold">Name</label>
-                            <input class="w-full border border-input-border bg-input px-4 py-4 text-white" name="name">
+                            <input class="w-full border border-input-border bg-input rounded-sm  px-4 py-4 text-white" name="name">
                         </div>
                         <div>
                             <label class="block mb-6 text-xl font-bold">Email</label>
-                            <input type="email" class="w-full border border-input-border bg-input px-4 py-4 text-white" name="email">
+                            <input type="email" class="w-full border border-input-border rounded-sm  bg-input px-4 py-4 text-white" name="email">
                         </div>
                         <div>
                             <label class="block mb-6 text-xl font-bold">Message</label>
-                            <textarea type="email" class="w-full border border-input-border bg-input px-4 py-4 text-white h-56 resize-none" name="message"></textarea>
+                            <textarea type="email" class="w-full border border-input-border rounded-sm  bg-input px-4 py-4 text-white h-56 resize-none" name="message"></textarea>
                         </div>
-                        <button class="px-6 py-2 bg-theme text-white font-bold">Send it!</button>
+                        <button class="px-6 py-2 bg-theme text-white font-bold rounded-sm ">Send it!</button>
                     </div>
                 </form>
                 <div class="mt-12">
