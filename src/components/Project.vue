@@ -28,8 +28,8 @@
                          <p class="text-secondary text-justify mt-3">It is a single page application that allows you to stay informed about the most important cryptocurrencies of the moment.
                         <br><span class="font-bold">Stack used: VueJs, TailwindCss.</span></p>
                         <div class="mt-12 mb-8 flex justify-around space-x-6">
-                            <a href=""><button class="px-6 py-2 bg-theme font-bold rounded-sm text-white">Visit it!</button></a>
-                            <a href=""><button class="px-6 py-2 bg-theme font-bold rounded-sm text-white">Check the code! </button></a>
+                            <a href="https://exchange-crypto-fabriciobencomo.netlify.app" target="_blank"><button class="px-6 py-2 bg-theme font-bold rounded-sm text-white">Visit it!</button></a>
+                            <a href="https://github.com/fabriciobencomo/exchange-crypto" target="_blank"><button class="px-6 py-2 bg-theme font-bold rounded-sm text-white">Check the code! </button></a>
                         </div>
                     </div>
                 </div>    
@@ -42,8 +42,8 @@
                        <p class="text-secondary text-justify mt-3">It is a web application focused on job offers in the technology industry where it unites recruiters with IT workers.
                         <br><span class="font-bold">Stack used: Laravel, VueJs, TailwindCss.</span></p>
                         <div class="mt-12 mb-8 flex justify-around space-x-6">
-                            <a href=""><button class="px-6 py-2 bg-theme font-bold rounded-sm text-white">Visit it!</button></a>
-                            <a href=""><button class="px-6 py-2 bg-theme font-bold rounded-sm text-white">Check the code! </button></a>
+                            <a href="https://travel-info-page.netlify.app/public/"><button class="px-6 py-2 bg-theme font-bold rounded-sm text-white">Visit it!</button></a>
+                            <a href="https://github.com/fabriciobencomo/TravelPage"><button class="px-6 py-2 bg-theme font-bold rounded-sm text-white">Check the code! </button></a>
                         </div>
                     </div>
                 </div>
