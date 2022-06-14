@@ -56,7 +56,7 @@
                         <p class="text-justify mt-3 text-white">It is an informative page on interesting places for different types of travelers. is focused on minimalist and attractive design.
                         <br><span class="font-bold">Stack used: TailwindCss.</span></p>
                         <div class="mt-12 mb-8 flex justify-around space-x-6">
-                            <a href="https://travel-info-page.netlify.app/public/><button class=" target="_blank">px-6 py-2 bg-theme font-bold rounded-sm text-white">Visit it!</button></a>
+                             <a href="https://travel-info-page.netlify.app/public/"><button class="px-6 py-2 bg-theme font-bold rounded-sm text-white">Visit it!</button></a>
                              <a href="https://github.com/fabriciobencomo/TravelPage" target="_blank"><button class="px-6 py-2 bg-theme font-bold rounded-sm text-white">Check the code! </button></a>
                         </div>
                     </div>
