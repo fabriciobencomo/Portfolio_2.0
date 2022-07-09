@@ -80,7 +80,7 @@ export default {
 	margin: 1.5rem;
 	overflow: hidden;
 	min-height: 32rem;
-    height:40rem;
+    height:36rem;
 }
 
 
