@@ -79,7 +79,8 @@ export default {
 	display: flex;	
 	margin: 1.5rem;
 	overflow: hidden;
-	height: 32rem;
+	min-height: 32rem;
+    height:40rem;
 }
 
 
