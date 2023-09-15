@@ -2,6 +2,7 @@
   <Header />
   <Hero />
   <About />
+  <Experience />
   <Project />
   <Contact />
 </template>
@@ -11,6 +12,7 @@ import About from './components/About'
 import Contact from './components/Contact'
 import Header from './components/Header.vue'
 import Hero from './components/Hero'
+import Experience from './components/Experience'
 import Project from './components/Project'
 
 
@@ -20,6 +22,7 @@ export default {
     Header,
     Hero,
     About,
+    Experience,
     Project,
     Contact
   }

@@ -10,6 +10,9 @@
                     <a href="#about" class="nav-dot block w-7 h-7 rounded-full border-4 border-nav bg-body">
                         <span class="bg-black px-2 py-1 rounded-md ml-10 opacity-0">About</span>
                     </a>
+                    <a href="#experience" class="nav-dot block w-7 h-7 rounded-full border-4 border-nav bg-body">
+                        <span class="bg-black px-2 py-1 rounded-md ml-10 opacity-0">Experience</span>
+                    </a>
                     <a href="#work" class="nav-dot block w-7 h-7 rounded-full border-4 border-nav bg-body">
                         <span class="bg-black px-2 py-1 rounded-md ml-10 opacity-0">Projects</span>
                     </a>
