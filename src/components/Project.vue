@@ -14,7 +14,7 @@
                         <p class="text-white text-justify mt-3">It is a social network that allows its users to share their recipes with the world .What are you waiting for? learn a new recipe or share yours.
                         <br><span class="font-bold">Stack used: Laravel, Bootstrap, Javascript.</span></p>
                         <div class="mt-12 mb-8 flex justify-around space-x-6">
-                            <a href="http://calm-reaches-90714.herokuapp.com" target="_blank"><button class="px-6 py-2 bg-theme font-bold rounded-sm text-white">Visit it!</button></a>
+                            <a href="http://calm-reaches-90714.herokuapp.com" disbabled target="_blank"><button class="px-6 py-2 bg-theme font-bold rounded-sm text-white">Visit it!</button></a>
                             <a href="https://github.com/fabriciobencomo/ShareRecipes" target="_blank"><button class="px-6 py-2 bg-theme font-bold rounded-sm text-white">Check the code! </button></a>
                         </div>
                     </div>
@@ -42,7 +42,7 @@
                        <p class="text-secondary text-justify mt-3">It is a web application focused on job offers in the technology industry where it unites recruiters with IT workers.
                         <br><span class="font-bold">Stack used: Laravel, VueJs, TailwindCss.</span></p>
                         <div class="mt-12 mb-8 flex justify-around space-x-6">
-                            <a href="http://blooming-hollows-23519.herokuapp.com" target="_blank"><button class="px-6 py-2 bg-theme font-bold rounded-sm text-white">Visit it!</button></a>
+                            <a href="http://blooming-hollows-23519.herokuapp.com" disbabled target="_blank"><button class="px-6 py-2 bg-theme font-bold rounded-sm text-white">Visit it!</button></a>
                             <a href="https://github.com/fabriciobencomo/devJobs_Laravel" target="_blank"><button class="px-6 py-2 bg-theme font-bold rounded-sm text-white">Check the code! </button></a>
                         </div>
                     </div>
