@@ -14,7 +14,7 @@
                         <p class="text-white text-justify mt-3">It is a social network that allows its users to share their recipes with the world .What are you waiting for? learn a new recipe or share yours.
                         <br><span class="font-bold">Stack used: Laravel, Bootstrap, Javascript.</span></p>
                         <div class="mt-12 mb-8 flex justify-around space-x-6">
-                            <a href="http://calm-reaches-90714.herokuapp.com" disbabled target="_blank"><button class="px-6 py-2 bg-theme font-bold rounded-sm text-white">Visit it!</button></a>
+                            <a href="#"><button class="px-6 py-2 bg-zinc-800 font-bold rounded-sm text-white cursor-not-allowed">Unavailable</button></a>
                             <a href="https://github.com/fabriciobencomo/ShareRecipes" target="_blank"><button class="px-6 py-2 bg-theme font-bold rounded-sm text-white">Check the code! </button></a>
                         </div>
                     </div>
@@ -42,7 +42,7 @@
                        <p class="text-secondary text-justify mt-3">It is a web application focused on job offers in the technology industry where it unites recruiters with IT workers.
                         <br><span class="font-bold">Stack used: Laravel, VueJs, TailwindCss.</span></p>
                         <div class="mt-12 mb-8 flex justify-around space-x-6">
-                            <a href="http://blooming-hollows-23519.herokuapp.com" disbabled target="_blank"><button class="px-6 py-2 bg-theme font-bold rounded-sm text-white">Visit it!</button></a>
+                            <a><button class="px-6 py-2 bg-zinc-800 font-bold rounded-sm text-white cursor-not-allowed">Unavailable</button></a>
                             <a href="https://github.com/fabriciobencomo/devJobs_Laravel" target="_blank"><button class="px-6 py-2 bg-theme font-bold rounded-sm text-white">Check the code! </button></a>
                         </div>
                     </div>
@@ -60,7 +60,35 @@
                              <a href="https://github.com/fabriciobencomo/TravelPage" target="_blank"><button class="px-6 py-2 bg-theme font-bold rounded-sm text-white">Check the code! </button></a>
                         </div>
                     </div>
-                </div>    
+                </div>
+                <div class="card md:w-10/12 w-72 flex flex-col bg-input">
+                    <div>
+                        <img src="@/assets/sitioWeb5.png" alt="project">
+                    </div>
+                    <div class="mt-5 mx-2">
+                        <p class="text-xl font-bold title-project text-white">JournalApp</p>
+                        <p class="text-justify mt-3 text-white">JournalApp is a system for users to save notes with images and extensive descriptions, with authentication using firebase, try using the next example user, Email: ejemplo@ejemplo.com Password:123456
+                        <br><span class="font-bold">Stack used: React, Material UI.</span></p>
+                        <div class="mt-12 mb-8 flex justify-around space-x-6">
+                             <a href="https://journalapp-fabriciobencomo.netlify.app/#/auth/login" target="_blank"><button class="px-6 py-2 bg-theme font-bold rounded-sm text-white">Visit it!</button></a>
+                             <a href="https://github.com/fabriciobencomo/TravelPage" target="_blank"><button class="px-6 py-2 bg-theme font-bold rounded-sm text-white">Check the code! </button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card md:w-10/12 w-72 flex flex-col bg-white">
+                    <div>
+                        <img src="@/assets/sitioWeb2.png" alt="project">
+                    </div>
+                    <div class="mt-5 mx-2">
+                        <p class="text-xl font-bold title-project">Grocery Store</p>
+                       <p class="text-secondary text-justify mt-3">It is an application with the purpose that customers can buy the different products offered by a store. The focus of the application is on the frontend.
+                        <br><span class="font-bold">Stack used: ReactJs, TailwindCss.</span></p>
+                        <div class="mt-12 mb-8 flex justify-around space-x-6">
+                            <a href="https://grocerystorefabriciobencomo.netlify.app" target="_blank"><button class="px-6 py-2 bg-theme font-bold rounded-sm text-white">Visit it!</button></a>
+                            <a href="https://github.com/fabriciobencomo/ShopList" target="_blank"><button class="px-6 py-2 bg-theme font-bold rounded-sm text-white">Check the code! </button></a>
+                        </div>
+                    </div>
+                </div>  
             </div>
         </section>
     </div>
