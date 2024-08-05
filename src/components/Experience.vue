@@ -35,6 +35,24 @@
     
                     </div>
 
+                    <div class="w-full p-16 lg:px-32 lg:py-20 lg:space-x-36 flex justify-center lg:justify-start flex-wrap lg:flex-nowrap">
+                        
+                        <!-- Company logo -->
+                        <div class="mb-6 lg:mb-0">
+                            <img src="@/img/leadbox.jpeg" alt="leadboxLogo" class="rounded-md">
+                        </div>
+    
+                        <!-- Company info -->
+                        <div class="flex flex-wrap justify-center text-center lg:text-left lg:block">
+                            <h3 class="text-3xl font-semibold">Frontend Developer (Leadbox)</h3>
+                            <div class="w-full lg:w-auto flex flex-wrap justify-center lg:justify-start gap-3 mt-6 mb-8">
+                                <div class="badge text-white">May 2024 - Current</div>
+                            </div>    
+                            <p class="text-secondary text-justify">Provides technical support to the websites of various clients among which are canada dealers of brands such as ford, hyundai, honda, general motors, among others, using tools such as vue js, javascript, php, laravel, wordpress.</p>
+                        </div>
+    
+                    </div>
+
                 </div>
     
             </section>
